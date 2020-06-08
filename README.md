@@ -7,3 +7,6 @@ The mechanism of ironmaking process includes not only a chemical reaction constr
 (1) From [Si]-[S]-FL-PML according to the serial number in the given data table, in 1000 furnace production big data, independently choose the learning samples and algorithms, establish [Si] prediction dynamic mathematical model, including a step Prediction.  
 (2) Automatically select verification samples to verify the prediction success rate of the mathematical model you have established. Including numerical prediction success rate and furnace temperature rise and fall direction prediction success rate. . And discuss the feasibility of its dynamic predictive control.  
 (3) Take the quality index of sulfur content in molten iron [S] as an example. The sulfur content is low and the molten iron quality is good. It can produce high-quality steel and manufacture high-quality equipment. Try to establish an optimized mathematical model of quality index [S], and discuss the expected effect of [Si] predictive control based on the calculation results of the optimized model.
+
+## Solution
+The solution is provided in this repository. All contents including a thesis and the codes are available.
