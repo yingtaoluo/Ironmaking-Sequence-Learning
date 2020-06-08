@@ -10,4 +10,4 @@ The mechanism of ironmaking process includes not only a chemical reaction constr
 
 ## Solution
 The solution is provided in this repository. All contents including a thesis and the codes are available.
-Basically, we use Data Preprocessing, ICA and Normalization for feature engineering, and use Least-Square Supporting Vector Machine for regression model. We successfully performed a valid prediction both with two steps and one step.
+Basically, we use Data Preprocessing, ICA and Normalization for feature engineering, and use Least-Square Supporting Vector Machine for regression model. We successfully performed a cross-validation test both with two steps and one step.
